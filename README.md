@@ -12,7 +12,13 @@ In this project, I analyze the diabetes.csv dataset to answer the following ques
 
 ## Directory Structure
 
-This repository contains 3 files: Diabetes_Project.ipynb, diabetes.csv, and README.md. Diabetes_Project.ipynb contains all of my Python code and analysis of the diabetes data. diabetes.csv is the dataset used for this project.
+This repository contains 3 files: Diabetes_Project.ipynb, diabetes.csv, requirements.txt, and README.md.
+
+ - Diabetes_Project.ipynb contains all of my Python code and analysis of the diabetes data.
+
+ - diabetes.csv is the dataset used for this project.
+
+ - requirements.txt contains all required libraries to execute this project.
 
 ## Tools
 
@@ -24,7 +30,7 @@ The Python programming language was used to build this project, with Visual Stud
 
 Inside the top level of the directory, enter:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### Execution
 
