@@ -12,7 +12,7 @@ In this project, I analyze the diabetes.csv dataset to answer the following ques
 
 ## Directory Structure
 
-This repository contains 3 files: Diabetes_Project.ipynb, diabetes.csv, requirements.txt, and README.md.
+This repository contains four files: Diabetes_Project.ipynb, diabetes.csv, requirements.txt, and README.md.
 
  - Diabetes_Project.ipynb contains all of my Python code and analysis of the diabetes data.
 
